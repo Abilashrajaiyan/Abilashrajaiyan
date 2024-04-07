@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abilash
 - 👀 I’m interested in New things to learn
-- 🌱 I’m currently learning Manual Testing
+- 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 - 😄 Pronouns
